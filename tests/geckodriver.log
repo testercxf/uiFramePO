@@ -1,0 +1,58 @@
+1581828404235	geckodriver	INFO	Listening on 127.0.0.1:63150
+1581828406253	mozprofile::profile	INFO	Using profile path C:\Users\Dell\AppData\Local\Temp\rust_mozprofile.DyJkVw4nvqmm
+1581828406268	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1581828406281	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63156
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1581828407386	Marionette	INFO	Listening on port 63156
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1581828409107	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 19kDT
+1581828507715	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1581828507728	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63254
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1581828508730	Marionette	INFO	Listening on port 63254
+1581828510137	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 6912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 6912]1581828556827	geckodriver	INFO	Listening on 127.0.0.1:63311
+1581828558873	mozprofile::profile	INFO	Using profile path C:\Users\Dell\AppData\Local\Temp\rust_mozprofile.oXCuy9qc6e51
+1581828558887	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1581828558900	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63317
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1581828559870	Marionette	INFO	Listening on port 63317
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1581828561180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581829202906	geckodriver	INFO	Listening on 127.0.0.1:63493
+1581829204988	mozprofile::profile	INFO	Using profile path C:\Users\Dell\AppData\Local\Temp\rust_mozprofile.b30LoXzt5xNw
+1581829205004	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1581829205018	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63499
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1581829206246	Marionette	INFO	Listening on port 63499
+1581829207062	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 12576] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Chicalhost:63617
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1581829241472	Marionette	INFO	Listening on port 63617
+1581829242776	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1581829323331	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1581829323333	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child tte on localhost:63718
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1581829268060	Marionette	INFO	Listening on port 63718
+1581829269413	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript warning: http://www.123.org.cn/htmls/s_qingtiancms_n1.js, line 1485: unreachable code after return statement
+[Child 5088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 
